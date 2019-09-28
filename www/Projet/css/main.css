@@ -1,0 +1,22 @@
+.card{
+    height: 200px;
+}
+
+.Card {
+    display: inline-block;
+    width: 150px;
+    margin: 3em;
+}
+
+#deck {
+    position: fixed;
+    up: 20px;
+    right: 20px;
+    padding: 10px;
+    border: solid black 1px;
+    border-radius: 10px;
+}
+
+#cardSearchResult {
+    margin-right : 141px;
+}

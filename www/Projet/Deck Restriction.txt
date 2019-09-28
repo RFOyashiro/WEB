@@ -1,0 +1,64 @@
+les règles de construction de deck : 
+
+Une seule série autorisé pour le deck. Le deck builder est fait de manière a ce qu'il sorte toutes les cartes autorisées pour la série (hors les cartes pour tous les set)
+
+Pas plus de 4 fois une carte ayant le même nom, sauf si l'effet de la carte dis le contraire (par exemple : "cette carte peut être autant de fois que voulu dans le deck." ou "cette carte et [NomCarte] ne peuvent pas être plus d'un total de 4 fois dans le deck"). Cela prends donc en compte les rareté des cartes : AB/W11-001 et AB/W11-001SP ne peuvent pas être un total de 4 fois dans le deck (3 / 1 ou 2 / 2 autorisé, 4 / 1 interdit...)
+
+8 Climax (carte format paysage) Maximum. Il est possible d'en mettre moins mais c'est souvent une mauvaise idée. Ces cartes respectent aussi la règle ci-dessus.
+
+50 cartes minimum ET maximum dans le deck.
+
+Le deck doit suivre la banlist suivante : 
+Da Capo : 
+- 1 parmis 2 :
+	* Anzu in Swimsuits DC/W01-091
+	* Xylophone Fortune Reading DC/W01-095
+
+Little Busters :
+- Bannis : 
+	* Rest! LB/W09-96
+
+Melancholy of Harui Suzumiya : 
+- Bannis : 
+	* World with Faded Colors SY/W08-071
+
+Crayon Shin-Chan : 
+- Pas plus d'1 copie : 
+	* Action Mask, Sealed Fists CS/S28-P01
+
+Index/Railgun : 
+- Pas plus de 2 copies :
+	* Mikoto & Kuroko, Under One Roof RG/W13-052, RG/W13-052S
+
+Personna : 
+- Bannis : 
+	* Akinari Kamiki P3-S01-014
+
+Disgaea : 
+- Pas plus d'1 copie : 
+	* Supreme Overlord Laharl DG/S02-T17, DG/S02-061
+
+Shinning Series : 
+- Bannis : 
+	* Cyrille, Changing Clothes SE/S04-080
+
+Tantei Opera Milky Holmes : 
+- Bannis : 
+	* Cordelia's Garden MK/S11-096
+
+Kantai Collection : 
+- Bannis : 
+	* Junyou, 2nd Hiyou-class Light Aircraft Carrier KC/S25-028
+- 1 parmis 3 : 
+	* Hatsukaze, 7th Kagero-class Destroyer KC/S25-006 
+	* Hibiki, 2nd Akatsuki-class Destroyer KC/S25-056 
+	* Akagi Kai, Akagi-class Aircraft Carrier KC/S25-035, KC/S25-035SP 
+
+Nisekoi : 
+- Pas plus d'1 copie :
+	* Marika, Maiden's Heart NK/W30-052, NK/W30-052SP
+- 1 parmis 3 :
+	* Pendant of Promise NK/W30-T08, NK/W30-022, NK/W30-046, NK/W30-071, NK/W30-097 
+	* Kosaki, Angel in White Clothing NK/W30-081, NK/W30-081S 
+	* Raku, Being Similar NK/W30-084 
+
